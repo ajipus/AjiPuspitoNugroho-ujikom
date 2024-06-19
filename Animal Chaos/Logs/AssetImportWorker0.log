@@ -210,3 +210,120 @@ Received Import Request.
 Start importing Assets/ProjectAssets/UI/square.jpg using Guid(a9dce92bf823a7b4487a73326eee8871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e208b5fb541cb2330a0a3a1c2fa6518') in 0.149039 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 728.977079 seconds.
+  path: Assets/ProjectAssets/Textures/Boy.png
+  artifactKey: Guid(54bb1770b4b7db948a2839c11420bd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Boy.png using Guid(54bb1770b4b7db948a2839c11420bd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed951519f259d66dad312150f2f0de69') in 0.044164 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/ProjectAssets/Textures/Boy_Normal.png
+  artifactKey: Guid(efe8dc5c08b62a047ad51a566db85fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Boy_Normal.png using Guid(efe8dc5c08b62a047ad51a566db85fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc469c61d63fd1319f2851263e7b727f') in 0.045606 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/ProjectAssets/Textures/Ground.png
+  artifactKey: Guid(bca51241647d37e41978119e54055a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Ground.png using Guid(bca51241647d37e41978119e54055a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa7295146100214673f67220cdbdfb7') in 0.028953 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ProjectAssets/Textures/Cow.png
+  artifactKey: Guid(1d68e9b0bfb360a44a3f36702e079ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Cow.png using Guid(1d68e9b0bfb360a44a3f36702e079ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8bcc5e19d598b0446376c5e6e339f67') in 0.056142 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ProjectAssets/Textures/Dog.png
+  artifactKey: Guid(91429fadbfbfb034ca01c22b1f543849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dog.png using Guid(91429fadbfbfb034ca01c22b1f543849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c0bfc5e14deabd63b4ed13d8f41dd33') in 0.044485 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 10.653571 seconds.
+  path: Assets/ProjectAssets/Materials/Boy.mat
+  artifactKey: Guid(24e9aafaa245edd4599328f92509b135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Boy.mat using Guid(24e9aafaa245edd4599328f92509b135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8afd8d99a665f419884e432a21c805a6') in 0.470243 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ProjectAssets/Materials/Dog.mat
+  artifactKey: Guid(7190256955397514cade7151c9b28b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dog.mat using Guid(7190256955397514cade7151c9b28b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a10fe777df56970c54e2cca4ee600c6d') in 0.323304 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.555033 seconds.
+  path: Assets/ProjectAssets/Audio/BGM_Gameplay.wav
+  artifactKey: Guid(1532c7e67c2d60c4c8780da14b7e8fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Audio/BGM_Gameplay.wav using Guid(1532c7e67c2d60c4c8780da14b7e8fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bed2a4faea33ebe2e50ff59ed29b959') in 0.224116 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/ProjectAssets/Audio/SFX_UI_Click_Button.wav
+  artifactKey: Guid(fcf77559b4c484b4bb499c9a95c32e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Audio/SFX_UI_Click_Button.wav using Guid(fcf77559b4c484b4bb499c9a95c32e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70361b028c200df4fdceb01b560ed0e') in 0.021146 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/ProjectAssets/Audio/SFX_GameOver.mp3
+  artifactKey: Guid(821abbd1f84b1f840a77f7944f690132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Audio/SFX_GameOver.mp3 using Guid(821abbd1f84b1f840a77f7944f690132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3749247dc0b84e1d518b0de8ecce33b4') in 0.046699 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ProjectAssets/Audio/SFX_DestroyAnimal.wav
+  artifactKey: Guid(0c008ee3ee72a4362a35be25fa5de043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Audio/SFX_DestroyAnimal.wav using Guid(0c008ee3ee72a4362a35be25fa5de043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935529146d82a9f11807bdd994db1675') in 0.021507 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/ProjectAssets/Audio/SFX_ThrowFood.wav
+  artifactKey: Guid(c6600c5491e54a044b5fa6d406a6e20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Audio/SFX_ThrowFood.wav using Guid(c6600c5491e54a044b5fa6d406a6e20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de9a4f81f1764cae8967e1fe564080ac') in 0.019274 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/ProjectAssets/Audio/SFX_Eat.wav
+  artifactKey: Guid(aebae0e89d575dc43ae340319487ef87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Audio/SFX_Eat.wav using Guid(aebae0e89d575dc43ae340319487ef87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '233d94ebcf6780dde9ab6b75e8a5aa83') in 0.021631 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 9.040348 seconds.
+  path: Assets/ProjectAssets/Objects/Boy/Animations/Idle.fbx
+  artifactKey: Guid(cae9d28f2c3eb2c4bb37772c56b583d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Objects/Boy/Animations/Idle.fbx using Guid(cae9d28f2c3eb2c4bb37772c56b583d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935be1a316ba5214a03bc461fff622b7') in 0.016997 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -178,3 +178,91 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 90379.921989 seconds.
+  path: Assets/ProjectAssets/Textures/Boy_Metallic.png
+  artifactKey: Guid(d89bcbe2c3a6cab4e8d1272d861477e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Boy_Metallic.png using Guid(d89bcbe2c3a6cab4e8d1272d861477e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a84f4fe5166892d265d5cf7fe7297c8') in 0.142582 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ProjectAssets/Textures/Food.png
+  artifactKey: Guid(546f6bdce0e385c458d7d325a290db65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Food.png using Guid(546f6bdce0e385c458d7d325a290db65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5f338aad98450413c42e732ccc8de95') in 0.018806 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/ProjectAssets/Textures/Horse.png
+  artifactKey: Guid(6fd99c06550dd554b8fffb7b1a8a998c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Horse.png using Guid(6fd99c06550dd554b8fffb7b1a8a998c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc3141530f7c88e072795804354f71f') in 0.013495 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/ProjectAssets/Textures/Deer.png
+  artifactKey: Guid(55a1cabb513db0d46a71212713585751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Deer.png using Guid(55a1cabb513db0d46a71212713585751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc36e4e45710cfe0000a80ab92ee8a6a') in 0.057152 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 10.664053 seconds.
+  path: Assets/ProjectAssets/Materials/Cow.mat
+  artifactKey: Guid(186977775ba96a34386dc33afc1b4469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Cow.mat using Guid(186977775ba96a34386dc33afc1b4469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '830f289bbb9e5d1361157dc38ebad8d9') in 0.449191 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/ProjectAssets/Materials/Deer.mat
+  artifactKey: Guid(6c349a73da0f61a43b375b7ba21f9c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Deer.mat using Guid(6c349a73da0f61a43b375b7ba21f9c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '126aac9fa9cdbbdc43708692653d10d5') in 0.017505 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ProjectAssets/Materials/Ground.mat
+  artifactKey: Guid(e99dada94da92e949bda87ccc780fbd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Ground.mat using Guid(e99dada94da92e949bda87ccc780fbd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f14946a6c7c393528f9f3f19a6e252') in 0.024198 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ProjectAssets/Materials/Horse.mat
+  artifactKey: Guid(363195988e080da4ba5c737f846dcfd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Horse.mat using Guid(363195988e080da4ba5c737f846dcfd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ee08ba7e0f3a241a0a689be67e4c3a0') in 0.037077 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ProjectAssets/Materials/Food.mat
+  artifactKey: Guid(102e0f4feef48bd44ad36957d4e418f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Food.mat using Guid(102e0f4feef48bd44ad36957d4e418f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd90edb9c31faf458e3f3bb7a47c80415') in 0.017991 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.777087 seconds.
+  path: Assets/ProjectAssets/Audio/BGM_MainMenu.wav
+  artifactKey: Guid(d08ebcf05a5e3d737a292577fc84fb87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Audio/BGM_MainMenu.wav using Guid(d08ebcf05a5e3d737a292577fc84fb87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e89569ab07ccab339f1fcb4a9d34c05') in 0.889877 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 8.507877 seconds.
+  path: Assets/ProjectAssets/Objects/Boy/Animations/Strafe Left.fbx
+  artifactKey: Guid(f3e71ef83d0e7da438e8615bf144b427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Objects/Boy/Animations/Strafe Left.fbx using Guid(f3e71ef83d0e7da438e8615bf144b427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1a2c4aa5c59b8a4b837fc27387f022d') in 0.016811 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
